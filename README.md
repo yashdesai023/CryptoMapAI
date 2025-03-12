@@ -1,1 +1,1 @@
-# CryptoMapAI-
+# CryptoMapAI
